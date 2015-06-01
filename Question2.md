@@ -1,4 +1,4 @@
-A.
+#A.
 #a)
 etc/passwd file stores essential information, which is required during login. user account information. /etc/passwd is a text file, that contains a list of the system's accounts, giving for each account some useful information like user ID, group ID, home directory, shell, etc. It should have general read permission as many utilities, like ls use it to map user IDs to user names, but write access only for the superuser (root).
 #b)
